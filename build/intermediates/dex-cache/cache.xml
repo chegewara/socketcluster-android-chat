@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_d3f4146c9fce42c2c9c2719be9800041d027bb8d\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3fa7509c51983fb74b70f61fa20a5e13d5c0b3b8\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d1de83d5b03e3ec10027388d1b63f7cbb057cb9f">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99fb603d453ff74667f4b5749a1584f9b58b9f26\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\socketcluster-android-simple-chat\socketclusterandroidclient\unspecified\jars\libs\json-simple-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4c8894a54d74afa215beead3532ee62f51bd8356">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\8\json-simple-1.1.1_3b196d1475175c5d1167dbcdd26c57c941a60ca5\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7aa94741698440d0266b022425b040f2a22ed72d\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4112f4b1053300bc5043ab8e864eb90a3de0b89b">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_736587c1110641300c1e561cfd8055e70ff39e07\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_cc502eed40d06124854872f8a44c739c3db396dc\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_54afc9d6d1059f0feaa2f46ae19bf9f07b54a28b\classes.dex" />
+    </item>
+    <item
+        jar="F:\darek\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e37f1320ba4e7a1a51849f9b2cc146483aa29386\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_92bebe6f89846d17e5c7587c8b3dd1c8c592b257\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\androidprojects\socketcluster-android-simple-chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_8f658ba216ac8cf97d2efc4cbe9d77ca76f7039e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,44 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/address"
+        android:inputType="textWebEditText"
+        android:key="server_address"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_address_server" />
+
+    <EditTextPreference
+        android:defaultValue="@string/port"
+        android:inputType="number"
+        android:key="server_port"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_port_server" />
+
+    <EditTextPreference
+        android:defaultValue="@string/query"
+        android:inputType="textWebEditText"
+        android:key="query"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_query" />
+
+    <EditTextPreference
+        android:defaultValue="@string/prefix"
+        android:inputType="number"
+        android:key="channelPrefix"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_prefix" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="secure"
+        android:title="@string/pref_secure" />
+
+</PreferenceScreen>
